@@ -28,9 +28,9 @@ A minimal Spring Boot 3.x REST API for submitting and viewing user feedback. Inc
 ---
 
 📌 Prerequisites:
-Java 17+
-PostgreSQL running locally on port 5432
-A database named feedbackform
+- Java 17+
+- PostgreSQL running locally on port 5432
+- A database named feedbackform
 
 ---
 
