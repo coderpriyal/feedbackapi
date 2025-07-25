@@ -1,5 +1,5 @@
-# feedbackapi
-📮 Simple Feedback API
+# Spring Boot Mini Evaluation - 📮 Simple Feedback API
+
 
 A minimal Spring Boot 3.x REST API for submitting and viewing user feedback. Includes a clean HTML + JS frontend and integrates with a PostgreSQL database.
 
